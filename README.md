@@ -1,5 +1,5 @@
 ## simpleProgressDialog plugin per PhoneGap ##
-#### Creato da Nacios Technologies <a href="https://twitter.com/NaciosTechnolog" alt="_blank">@NaciosTechnolog</a> - <a href="https://www.facebook.com/NaciosTechnologies" alt="_blank">Facebook</a> - <a href="www.nacios.it" alt="_blank">www.nacios.it</a> - <a href="mailto:info@nacios.it">info@nacios.it</a> ####
+#### Creato da Nacios Technologies <a href="https://twitter.com/NaciosTechnolog" target="_blank">@NaciosTechnolog</a> - <a href="https://www.facebook.com/NaciosTechnologies" target="_blank">Facebook</a> - <a href="www.nacios.it" target="_blank">www.nacios.it</a> - <a href="mailto:info@nacios.it">info@nacios.it</a> ####
 =============================================================================================================================
 
 ## PhoneGap Plugin che consente di  richiamare il progress dialog nativo su sistema Andorid ##
@@ -40,3 +40,7 @@ Per maggiori informazioni consultare il seguente link: http://www.nacios.it/phon
 
 Nel caso in cui ci fossero una serie di operazioni in sequenza che si intende segnalare è opportuno richiamare il metodo show() più volte e soltanto alla fine il metodo hide().
 Questo accorgimento migliora sensibilmente le prestazioni.
+
+## LICENZA ##
+
+https://github.com/naciostechnologies/simpleprogressdialog/blob/master/LICENSE
