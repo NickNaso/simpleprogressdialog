@@ -1,5 +1,5 @@
 ## simpleProgressDialog plugin per PhoneGap ##
-#### Creato da Nacios Technologies <a href="https://twitter.com/NaciosTechnolog">@NaciosTechnolog</a> - https://www.facebook.com/NaciosTechnologies - www.nacios.it - info@nacios.it ####
+#### Creato da Nacios Technologies <a href="https://twitter.com/NaciosTechnolog" alt="_blank">@NaciosTechnolog</a> - <a href="https://www.facebook.com/NaciosTechnologies" alt="_blank">Facebook</a> - <a href="www.nacios.it" alt="_blank">www.nacios.it</a> - <a href="mailto:info@nacios.it">info@nacios.it</a> ####
 =============================================================================================================================
 
 ## PhoneGap Plugin che consente di  richiamare il progress dialog nativo su sistema Andorid ##
