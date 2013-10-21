@@ -10,7 +10,7 @@ Per maggiori informazioni consultare il seguente link: http://www.nacios.it/phon
 
 1) Per installare il plugin, copiare il file simpleProgressDialog.js all'interno della cartella /assets/www/ e includere il riferimento all'interno dei files html.
 
-'<script type="text/javascript" charset="utf-8" src="simpleProgressDialog.js"></script>'
+<script type="text/javascript" charset="utf-8" src="simpleProgressDialog.js"></script>
 
 2) All'interno della cartela src creare il package 'it.nacios.app.dialog' e successivamente copiarvi il file SimpleProgressDialog.java
 
